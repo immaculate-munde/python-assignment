@@ -1,0 +1,4 @@
+1: Hello, this is a test file.
+2: We are practicing file handling in Python.
+3: This is the third line of the file.
+4: File handling with error handling is fun!
